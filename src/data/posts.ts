@@ -15,62 +15,43 @@ export interface Post {
 export const posts: Post[] = [
   {
     id: "1",
-    title: "The Art of Minimalist Design",
-    slug: "art-of-minimalist-design",
+    title: "The Silent Weight of Untapped Potential",
+    slug: "the-silent-weight-of-untapped-potential",
     excerpt:
-      "Exploring how less becomes more in the world of design and how minimalism creates impact through simplicity.",
-    category: "Design",
-    date: "2025-04-14",
-    author: "Jane Doe",
+      "The worst thing about human potential is that it never disappears. It stays with you, silent, steady, waiting. Not to punish you, but to remind you of who you were always meant to be.",
+    category: "Purpose",
+    date: "2025-02-13",
+    author: "Kayden",
     imageUrl:
-      "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2067&q=80",
-    tags: ["Design", "Minimalism", "Aesthetics"],
+      "/Leonardo_Anime_XL_imagine_prompt_Viral_anime_nature_wallpaper_2(1).jpg",
+    tags: ["Purpose", "Inspiration", "Potential"],
     featured: true,
     content: `
-# The Art of Minimalist Design
+# The Silent Weight of Untapped Potential
 
-Minimalism isn't just a design trend—it's a philosophy that emphasizes the removal of excess to reveal what truly matters. In today's visually saturated world, the power of simplicity stands out more than ever.
+Have you ever felt a quiet whisper in your mind, reminding you of the things you could have done, the person you were meant to become? That’s your potential speaking. The worst thing about human potential is that it never disappears. It doesn’t fade away or abandon you. It stays with you, always present, waiting to be nurtured or left to linger in silence.
 
-## The Core Principles
+## The Nature of Potential
 
-At its heart, minimalist design follows several key principles:
+Think of potential like a seed. If nurtured, it bears fruit. If ignored, it remains dormant, following you like a shadow.
 
-1. **Simplicity**: Removing unnecessary elements
-2. **Clarity**: Ensuring each element serves a purpose
-3. **Whitespace**: Giving elements room to breathe
-4. **Balance**: Creating harmony without symmetry
+The scary part? That shadow grows. Every day you ignore your calling, it looms larger, whispering in quiet moments, reminding you of what could have been.
 
-When these principles come together, they create designs that communicate clearly and effectively.
+## The Call to Be Seen
 
-## How Less Becomes More
+Someone once said that a beautifully crafted sword remains an ornament if it is never drawn from its sheath. A gift that is never unwrapped is still a gift, but only to the one who holds it, never to the world.
 
-The paradox of minimalism is that by removing elements, what remains gains greater significance. A single bold image on a clean background makes a stronger statement than a cluttered collection. A carefully chosen font in a perfect weight needs no embellishment.
+It is never enough for you alone to know the greatness inside you. The good book says, **"Let your light so shine before men that they may see it."** If you are the only one who sees your light, you are in direct rebellion against the very intentionality of your design.
 
-> "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away." - Antoine de Saint-Exupéry
+## The Truth About Untapped Potential
 
-This quote perfectly encapsulates the minimalist approach—the discipline to remove until only the essential remains.
+Here’s the truth: your potential never leaves you. It will remain inside, waiting, hoping until time runs out. You can’t lose it, but you can waste it. And the longer you wait, the heavier its presence becomes.
 
-## Digital Applications
+## A Chance to Begin
 
-In user interface design, minimalism has proven particularly effective. Apps and websites that embrace minimalist principles tend to offer:
+But if you’re reading this, you still have time. You still have a chance to step into who you were meant to be.
 
-- Faster cognitive processing for users
-- Improved navigation and usability
-- Enhanced focus on content and calls-to-action
-- Better performance and loading times
-
-### Case Study: Apple
-
-Apple's journey from the skeuomorphic designs of early iOS to the flat, minimalist interfaces of today demonstrates the evolution of digital minimalism. By removing textures, shadows, and decorative elements, Apple created interfaces that put content first.
-
-## Finding Your Minimalist Voice
-
-Adopting minimalist principles doesn't mean all designs should look identical. The challenge is finding the balance between simplicity and personality—creating work that feels both clean and distinctive.
-
-Remember that minimalism isn't about removing until nothing is left. It's about removing until you can't remove anymore without compromising function or meaning.
-
-In a world of constant visual noise, the quiet confidence of minimalist design speaks volumes.
-    `,
+**So get up. Respect yourself. The world is waiting.**`,
   },
   {
     id: "2",
@@ -275,7 +256,7 @@ Remember that technology should serve your values and goals, not the other way a
     date: "2025-03-18",
     author: "Michael Rodriguez",
     imageUrl:
-      "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "public/Leonardo_Anime_XL_Viral_anime_nature_wallpaper_in_4K_quality_i_0.jpg",
     tags: ["Psychology", "Interior Design", "Wellbeing"],
     content: `
 # The Psychology of Space: How Your Environment Shapes Your Mindset
