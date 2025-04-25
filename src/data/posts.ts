@@ -22,8 +22,7 @@ export const posts: Post[] = [
     category: "Purpose",
     date: "2025-02-13",
     author: "Kayden",
-    imageUrl:
-      "/Leonardo_Anime_XL_imagine_prompt_Viral_anime_nature_wallpaper_2.jpg",
+    imageUrl: "/potential.jpg",
     tags: ["Purpose", "Inspiration", "Potential"],
     featured: true,
     content: `
@@ -55,122 +54,110 @@ But if you’re reading this, you still have time. You still have a chance to st
   },
   {
     id: "2",
-    title: "Morning Routines of Successful Writers",
-    slug: "morning-routines-of-successful-writers",
+    title: "The Pain You Choose",
+    slug: "the-pain-you-choose",
     excerpt:
-      "Discover the morning habits that famous authors credit for their creativity and productivity.",
-    category: "Writing",
-    date: "2025-04-10",
-    author: "John Smith",
-    tags: ["Writing", "Productivity", "Creativity"],
+      "No matter what you choose discipline or delay, growth or comfort—pain comes with it. But while pain is inevitable, the kind you carry is not. Choose the pain that leads somewhere.",
+    category: "Reflection",
+    date: "2025-04-25",
+    author: "Kayden",
+    imageUrl: "/ChatGPT Image Apr 25, 2025, 01_31_04 PM.png",
+    tags: [
+      "Pain And Purpose",
+      "Growth Mindset",
+      "Life Choices",
+      "Purpose Driven",
+    ],
     content: `
-# Morning Routines of Successful Writers
+# The Purpose of Pain
 
-The way we begin our days often sets the tone for everything that follows. For writers, whose work requires deep focus and creative energy, morning routines can be especially important.
+I’ve taken some time to really explore this word **pain**. And what I’ve come to realize is this: no matter what path you choose in life, pain is **unavoidable**.
 
-## The Early Risers
+## Pain Is in Every Path
 
-Many successful writers are famously early risers. Haruki Murakami, for example, wakes at 4:00 AM when working on a novel. He describes this routine in his memoir, "What I Talk About When I Talk About Running":
+- You **work out**: you deal with soreness, fatigue, and physical discomfort.  
+- You **neglect your health**: you deal with sluggishness, low energy, and chronic issues.
 
-> "I get up at 4:00 am and work for five to six hours. In the afternoon, I run for 10km or swim for 1500m (or do both), then I read a bit and listen to some music. I go to bed at 9:00 pm."
+- You **chase your dreams**: you face uncertainty, hard work, and failure.  
+- You **play it safe**: you encounter boredom, regret, and that lingering question: *what if?*
 
-Similarly, Maya Angelou would rent a hotel room where she would arrive at 6:30 AM, armed with a Bible, a thesaurus, a dictionary, and a bottle of sherry. She would write until early afternoon.
+- You **study diligently**: you wrestle with sleepless nights, pressure, and mental fatigue.  
+- You **don’t study**: you deal with poor performance, embarrassment, and limited doors in life.
 
-## Rituals and Consistency
+- You **face a problem head-on**: you feel discomfort, have tough conversations, and risk conflict.  
+- You **avoid the issue**: you endure prolonged stress, anxiety, and a worsening situation.
 
-What's notable about successful writers isn't just when they wake up, but the consistency of their habits. Ernest Hemingway wrote every morning as soon as there was light. "There is no one to disturb you and it is cool or cold and you come to your work and warm as you write," he said.
+- You **commit to building wealth**: you sacrifice time, practice financial discipline, delay gratification, and deal with setbacks.  
+- You **don’t**: you live with money stress, dependency, and restricted freedom.
 
-Joan Didion needed to begin each day by rereading everything she had written on a project so far. For others, the ritual might involve brewing coffee, lighting a candle, or writing in longhand before touching a keyboard.
+- You **invest in personal growth**: you meet discomfort, self-doubt, and painful self-awareness.  
+- You **stay stagnant**: you feel regret, watch others evolve, and live with the ache of untapped potential.
 
-## Physical Movement
+## Pain With a Purpose
 
-Many writers incorporate physical activity into their morning routines. Murakami runs. Charles Dickens took three-hour walks every morning through London or the countryside. Virginia Woolf walked for hours through London, composing sentences in her head before returning to her desk.
+No matter which way you go**: pain will meet you there**.
 
-## Finding Your Own Routine
+There’s pain that energizes you.  
+There’s pain that drains you.  
+There’s pain that signals **growth**, and pain that signals **decay**.
 
-The key takeaway isn't that all writers should wake at dawn, but that having a consistent routine—whatever works for your body clock and circumstances—can train your mind to enter a creative state more reliably.
+> **Pain isn't the enemy. Misused pain is.**
 
-Consider these elements when crafting your own routine:
+## What Kind of Pain Are You Choosing?
 
-1. **Time**: When are you naturally most alert and creative?
-2. **Environment**: Where do you work best? Create a space that signals "it's time to write."
-3. **Rituals**: What small actions help you transition into writing mode?
-4. **Movement**: How might physical activity support your mental work?
+Now that we know pain is inevitable, the real question becomes:
 
-Remember that the best routine is one you can actually maintain. Start small, be consistent, and adjust as needed.
+What kind of pain are you carrying today?
 
-The goal isn't to imitate the habits of famous writers, but to discover the conditions that allow your own creativity to flourish.
-    `,
+Is it the kind tied to progress, purpose, and vision?  
+Or is it the kind rooted in avoidance, stagnation, and regret?
+
+Just remember:
+
+> **Pain is a part of life. Suffering is a choice.**
+`,
   },
   {
     id: "3",
-    title: "Sustainable Living in Small Spaces",
-    slug: "sustainable-living-in-small-spaces",
+    title:
+      "Your Order Is Being Prepared: What Waiting at a Restaurant Taught Me About Faith",
+    slug: "Your Order Is Being Prepared: What Waiting at a Restaurant Taught Me About Faith",
     excerpt:
-      "Practical tips for an eco-friendly lifestyle when living in apartments or tiny homes.",
-    category: "Lifestyle",
-    date: "2025-04-03",
-    author: "Emily Chen",
-    imageUrl:
-      "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-    tags: ["Sustainability", "Minimalism", "Small Spaces"],
-    content: `
-# Sustainable Living in Small Spaces
+      "While waiting for a meal at a restaurant, I realized something profound, faith doesn’t begin when you start waiting, it begins when you place your order. Just because you can’t see what’s happening behind the scenes doesn’t mean progress isn’t being made. Life works the same way: stay patient, trust the process, and remember 'your order is coming'.",
+    category: "Life Lessons",
+    date: "2025-04-25",
+    author: "Kayden",
+    imageUrl: "/public/waiting.jpg",
+    tags: [
+      "Faith",
+      "Patience",
+      "Personal Growth",
+      "Life Lessons",
+      "Waiting Season",
+      "Spiritual Insight",
+      "Motivation",
+    ],
+    content: `# Your Order Is Being Prepared: What Waiting at a Restaurant Taught Me About Faith
 
-Living sustainably doesn't require acres of land for solar panels or a garden. Even in the smallest apartments, you can make choices that reduce your environmental impact while creating a healthier, more intentional living space.
+The other day, I was sitting in a restaurant waiting for my meal. Then it suddenly hit me—I had faith that my food would arrive. But my faith didn’t start when I sat at the table. It started earlier, when I placed the order. I trusted that the kitchen received it, that the chef was preparing it, even though I couldn’t see what was happening behind the scenes.
 
-## Minimalism and Sustainability: Natural Partners
+That’s when I realized: **faith begins before the waiting**. It starts the moment you believe that what you asked for is being handled, even if you can't see the progress yet.
 
-Small-space living naturally encourages minimalism, which aligns perfectly with sustainable values:
+And then it hit me even deeper. Some people never truly walk in faith because they never "place their order." They never take the first step because they fear disappointment. They live in hesitation, always wondering "what if," and miss the chance to experience the process unfolding.
 
-- **Buy less, choose well**: When space is limited, each purchase must be intentional
-- **Multifunctional items**: Furniture that serves multiple purposes reduces resource consumption
-- **Quality over quantity**: Investing in durable goods means less waste over time
+As I sat there, watching the waiters move from table to table, another lesson came to me. **Movement is a sign that the system is working**. The worst thing for your faith is feeling like nothing is happening. But if the waiters are moving, if meals are coming out—even if they’re not yours yet—you can trust that the kitchen is active. Life is like that. Opportunities are being served all around you. Stay patient—your order is coming.
 
-## Practical Strategies
+And another important realization: **someone else getting their meal doesn’t mean yours isn’t coming**. It just means their order was different. Maybe they ordered something quicker to prepare, or maybe they placed their order before you. Either way, seeing others served should fuel your confidence, not your insecurity.
 
-### Energy Efficiency
+Sometimes, yes, your meal may take longer. Maybe it’s more complex. Maybe there was a mix-up that needs fixing. But restaurants have processes in place to make sure you eventually get what you asked for—or something even better.
 
-Small spaces are generally more energy-efficient to heat and cool, but you can maximize this advantage:
+Here’s what I took away:
 
-- Use LED lighting throughout your home
-- Apply weatherstripping around windows and doors
-- Choose Energy Star appliances when possible
-- Use smart power strips to eliminate phantom energy use
+1. **Faith isn’t blind**: it’s trusting beyond what you can immediately see.  
+2. **Seeing others receive isn’t a threat**: it’s a reminder that orders are being fulfilled.  
+3. **Delay isn’t denial**: some things just take more time to prepare.  
 
-### Waste Reduction
-
-- Create a compact composting system with a countertop bin or bokashi composter
-- Establish a recycling station, even if it's just a set of bags hanging inside a cabinet
-- Shop with reusable bags, containers, and produce bags
-- Buy in bulk where possible to reduce packaging
-
-### Water Conservation
-
-- Install low-flow aerators on faucets
-- Use a water-efficient showerhead
-- Collect shower warm-up water in a bucket for plants
-- Consider a countertop water filter instead of bottled water
-
-## Small-Space Greenery
-
-Plants improve air quality and wellbeing while connecting us to nature:
-
-- Grow herbs in kitchen windowsills
-- Use vertical space with wall planters or hanging baskets
-- Choose air-purifying varieties like snake plants or pothos
-- Join a community garden if you crave more growing space
-
-## The Mindset Shift
-
-Perhaps the most important aspect of sustainable small-space living is the mindset. Rather than seeing limitations, recognize the benefits:
-
-- Less space to heat, cool, and light means a smaller carbon footprint
-- Less room for possessions encourages thoughtful consumption
-- Urban locations often allow car-free or car-lite living
-
-Small-space living isn't about sacrifice—it's about intention. By making conscious choices about what you bring into your home and how you use resources, you create a space that's not just sustainable for the planet but sustaining for you.
-    `,
+Faith is the patience to wait without losing hope, and the wisdom to recognize when your moment arrives. The restaurant of life is busy, but your table has been noticed. **Don’t walk away too soon. Your meal is coming.**`,
   },
   {
     id: "4",
@@ -179,8 +166,8 @@ Small-space living isn't about sacrifice—it's about intention. By making consc
     excerpt:
       "Strategies for maintaining a healthy relationship with technology in an always-on culture.",
     category: "Wellness",
-    date: "2025-03-27",
-    author: "Jane Doe",
+    date: "2025-04-25",
+    author: "Kayden",
     imageUrl:
       "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
     tags: ["Digital Wellness", "Mindfulness", "Technology"],
@@ -248,87 +235,49 @@ Remember that technology should serve your values and goals, not the other way a
   },
   {
     id: "5",
-    title: "The Psychology of Space: How Your Environment Shapes Your Mindset",
-    slug: "psychology-of-space",
+    title: "The Day You Don’t Feel Like It Is the Day That Counts Most",
+    slug: "the-day-you-don’t-feel-like-it-is-the-day-that-counts-most",
     excerpt:
-      "Exploring how the spaces we inhabit influence our thoughts, emotions, and behaviors.",
-    category: "Psychology",
-    date: "2025-03-18",
-    author: "Michael Rodriguez",
-    imageUrl:
-      "/Leonardo_Anime_XL_imagine_prompt_Viral_anime_nature_wallpaper_2.jpg",
-    tags: ["Psychology", "Interior Design", "Wellbeing"],
-    content: `
-# The Psychology of Space: How Your Environment Shapes Your Mindset
+      "I recently came across a powerful video on consistency and discipline that shifted my mindset. The speaker shared how true discipline isn’t formed in moments of motivation but in the quiet, exhausting days when you’d rather quit. His message? Anticipate resistance before it shows up: because once you name it, you tame it.",
+    category: "Self-Mastery",
+    date: "2025-04-25",
+    author: "Kayden",
+    imageUrl: "/discipline.png",
+    tags: ["Discipline", "Consisitency", "Daily Habits", "Self Mastery"],
+    content: `# I Came Across a Powerful Lesson on Consistency—Here’s What I Learned
 
-The spaces we inhabit are not merely physical containers—they're powerful psychological influences that shape our thoughts, emotions, and behaviors in ways we often don't consciously register.
+The other day, I stumbled upon a short video that completely reframed how I view discipline and consistency. It wasn’t flashy. No special effects, no dramatic soundtrack. Just a man speaking with raw honesty and clarity. And in just under 120 seconds, he laid out a blueprint that hit me hard and stuck.
 
-## Environmental Psychology
+He began by saying something simple but profound:  
+> *"Discipline is not built in the days of excitement. It is built in the days of exhaustion."*
 
-Environmental psychology studies the relationship between people and their physical surroundings. Research from this field has revealed that our environments affect us in profound ways:
+That line alone was enough to make me pause. But it got deeper.
 
-- Hospital patients with views of nature recover faster than those facing walls
-- Ceiling height can influence thinking style (higher ceilings promote more abstract thinking)
-- Natural light exposure improves mood and regulates circadian rhythms
-- Clutter reduces our ability to focus and increases stress hormones
+He shared how, when he decided to start putting out content every single day from Monday to Saturday, he didn’t rely on the initial motivation or hype. He knew that wouldn’t last. So instead, he had an honest conversation with himself. He didn’t just think about the good days when inspiration would be flowing—he prepared for the dry days, the tough days, the days where motivation would be nowhere in sight.
 
-## Designing for Different Mental States
+And when that day finally came, the day he woke up drained, the day his previous video had gone viral and he felt like he’d "earned a break," he didn’t fold. Why? Because he had already anticipated that day. He’d named the resistance before it arrived, and when it came, he didn’t need to summon strength from the moment. He drew it from his preparation.
 
-Different activities require different mental states, and our spaces can help facilitate them:
+That lesson really stuck with me.
 
-### For Creativity
+> *"The hardest battles aren’t the ones you fight unexpectedly,"* he said. *"They’re the ones you knew were coming, and you still had to face them."*
 
-- Slightly messy environments can promote creative thinking
-- Spaces with some ambient noise (like coffee shops) may enhance creative work
-- Higher ceilings and expansive views encourage big-picture thinking
-- Exposure to natural elements sparks creativity
+So often, we wait for motivation to carry us. But he reminded me that motivation is a guest. It comes and goes. Discipline? That’s the tenant. It stays. It shows up, even when you don’t feel like it.
 
-### For Focus
+He said something else I won’t forget:
+> *"Anticipation makes resistance powerless. A challenge named is a challenge tamed."*
 
-- Minimal visual distractions help maintain attention
-- Consistent, moderate lighting reduces eye fatigue
-- Sound-dampening elements prevent auditory interruptions
-- Personal items that remind you of your purpose can increase motivation
+That line rewired something in me. It made me realize that most of the time, what throws us off isn’t the difficulty of the challenge. It’s the surprise of it. When you already expect resistance, it loses its ability to shake you.
 
-### For Relaxation
+So here’s what I took from that video:
 
-- Cool colors (blues, greens) promote calmness
-- Soft textures invite touch and comfort
-- Curved shapes feel safer than sharp angles
-- Nature elements or views reduce stress
+1. You don’t build consistency in your high moments. You build it when you show up low.  
+2. Discipline isn’t about feeling ready. It’s about being ready.  
+3. Preparation beats procrastination every time.  
+4. The days of zero motivation aren’t a glitch in the journey. They *are* the journey.
 
-## Psychological Principles in Interior Design
+That video reminded me that the greatest lie we tell ourselves is that we’ll always feel like doing what we said we’d do. But the truth? The ones who win are the ones who do it anyway.
 
-Designers have long incorporated psychological principles into their work:
-
-- **Prospect and refuge**: We prefer spaces that offer both views (prospect) and security (refuge)
-- **Biophilia**: Humans have an innate attraction to nature and living things
-- **Spatial narratives**: Rooms that reveal themselves gradually create intrigue and satisfaction
-- **Sensory variation**: Spaces with varied sensory experiences feel more alive and engaging
-
-## Creating Psychologically Supportive Spaces
-
-Even with limited resources or rental restrictions, you can apply these principles:
-
-1. **Assess your needs**: What mental states do you need to support in your space?
-2. **Evaluate light sources**: Maximize natural light where possible
-3. **Incorporate nature**: Add plants, natural materials, or nature imagery
-4. **Consider sensory experiences**: Address not just visuals but textures, sounds, and scents
-5. **Create zones**: Designate areas for different activities, even in small spaces
-6. **Personalize meaningfully**: Include items that reflect your values and aspirations
-
-## Mindful Awareness of Your Environment
-
-Perhaps the most important step is simply becoming more conscious of how your environments affect you:
-
-- Notice how different spaces make you feel
-- Observe which environments help you think clearly versus feel scattered
-- Pay attention to spaces where you naturally feel calm or energized
-
-With greater awareness, you can make even small adjustments that significantly impact your wellbeing and cognitive function.
-
-By understanding the psychology of space, you gain agency not just in designing your environment, but in choosing and modifying the spaces you inhabit to better support your mental and emotional needs.
-    `,
+And now, every time I feel resistance creeping in, I remember: *I already knew this moment was coming.* And that gives me the strength to act even when I don’t feel like it.`,
   },
 ];
 

@@ -31,7 +31,7 @@ const Index = () => {
                 </Avatar>
               </div>
               <h1 className="text-4xl md:text-5xl font-serif font-medium tracking-tight mb-4">
-                Kayden
+                Clean Scribe
               </h1>
               <p className="text-lg text-muted-foreground leading-relaxed">
                 A minimalist blog focused on personal insights, design, and thoughtful content.

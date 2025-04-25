@@ -26,8 +26,8 @@ export const Navbar = () => {
     <header className="py-6 border-b border-border">
       <nav className="container-blog flex justify-between items-center">
         <div>
-          <Link to="/" className="font-serif text-xl font-medium">
-            Kayden
+          <Link to="/" className="font-serif text-2xl font-medium">
+            Clean Scribe
           </Link>
         </div>
         

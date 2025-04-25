@@ -11,7 +11,7 @@ export const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-6 md:mb-0">
             <Link to="/" className="font-serif text-xl font-medium">
-              Kayden
+              Clean Scribe
             </Link>
             <p className="mt-2 text-muted-foreground text-sm">
               A minimalist blog focused on personal insights.
