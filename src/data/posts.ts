@@ -95,7 +95,7 @@ I’ve taken some time to really explore this word **pain**. And what I’ve com
 
 ## Pain With a Purpose
 
-No matter which way you go**: pain will meet you there**.
+No matter which way you go: pain will meet you there.
 
 There’s pain that energizes you.  
 There’s pain that drains you.  
