@@ -145,7 +145,7 @@ That’s when I realized: **faith begins before the waiting**. It starts the mom
 
 And then it hit me even deeper. Some people never truly walk in faith because they never "place their order." They never take the first step because they fear disappointment. They live in hesitation, always wondering "what if," and miss the chance to experience the process unfolding.
 
-As I sat there, watching the waiters move from table to table, another lesson came to me. **Movement is a sign that the system is working**. The worst thing for your faith is feeling like nothing is happening. But if the waiters are moving, if meals are coming out, even if they’re not yours yet—you can trust that the kitchen is active. Life is like that. Opportunities are being served all around you. Stay patient,your order is coming.
+As I sat there, watching the waiters move from table to table, another lesson came to me. **Movement is a sign that the system is working**. The worst thing for your faith is feeling like nothing is happening. But if the waiters are moving, if meals are coming out, even if they’re not yours yet, you can trust that the kitchen is active. Life is like that. Opportunities are being served all around you. Stay patient,your order is coming.
 
 And another important realization: **someone else getting their meal doesn’t mean yours isn’t coming**. It just means their order was different. Maybe they ordered something quicker to prepare, or maybe they placed their order before you. Either way, seeing others served should fuel your confidence, not your insecurity.
 
