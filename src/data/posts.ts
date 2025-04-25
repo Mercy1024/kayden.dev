@@ -127,7 +127,7 @@ Just remember:
     category: "Life Lessons",
     date: "2025-04-25",
     author: "Kayden",
-    imageUrl: "/public/waiting.jpg",
+    imageUrl: "/waiting.jpg",
     tags: [
       "Faith",
       "Patience",
