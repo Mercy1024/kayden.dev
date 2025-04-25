@@ -1,10 +1,9 @@
-
-import React from 'react';
-import { Link } from 'react-router-dom';
-import { Post } from '@/data/posts';
-import { Button } from '@/components/ui/button';
-import { ArrowRight } from 'lucide-react';
-import { formatDate } from '@/lib/utils';
+import React from "react";
+import { Link } from "react-router-dom";
+import { Post } from "@/data/posts";
+import { Button } from "@/components/ui/button";
+import { ArrowRight } from "lucide-react";
+import { formatDate } from "@/lib/utils";
 
 interface FeaturedPostProps {
   post: Post;
@@ -12,17 +11,29 @@ interface FeaturedPostProps {
 
 export const FeaturedPost = ({ post }: FeaturedPostProps) => {
   if (!post) return null;
-  
+
   return (
     <div className="relative overflow-hidden rounded-lg bg-muted/30 border border-border">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-0">
-        <div className="p-6 md:p-8 flex flex-col justify-center">
+        <div className="p-6 md:p-8 flex flex-col justify-center test">
+          {post.imageUrl && (
+            <div className="relative h-64 md:h-full ">
+              <img
+                src={post.imageUrl}
+                alt={post.title}
+                className="absolute inset-0 h-full w-full rounded-2xl object-cover"
+              />
+            </div>
+          )}
           <div>
             <span className="text-sm font-medium text-muted-foreground">
               {post.category}
             </span>
             <h2 className="mt-2 text-2xl sm:text-3xl font-serif font-medium tracking-tight">
-              <Link to={`/post/${post.slug}`} className="hover:underline underline-offset-4">
+              <Link
+                to={`/post/${post.slug}`}
+                className="hover:underline underline-offset-4"
+              >
                 {post.title}
               </Link>
             </h2>
@@ -43,9 +54,9 @@ export const FeaturedPost = ({ post }: FeaturedPostProps) => {
             </div>
           </div>
         </div>
-        
+
         {post.imageUrl && (
-          <div className="relative h-64 md:h-full">
+          <div className="relative md:h-full">
             <img
               src={post.imageUrl}
               alt={post.title}

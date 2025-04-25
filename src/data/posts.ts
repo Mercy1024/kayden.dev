@@ -23,7 +23,7 @@ export const posts: Post[] = [
     date: "2025-02-13",
     author: "Kayden",
     imageUrl:
-      "/Leonardo_Anime_XL_imagine_prompt_Viral_anime_nature_wallpaper_2(1).jpg",
+      "/Leonardo_Anime_XL_imagine_prompt_Viral_anime_nature_wallpaper_2.jpg",
     tags: ["Purpose", "Inspiration", "Potential"],
     featured: true,
     content: `
@@ -256,7 +256,7 @@ Remember that technology should serve your values and goals, not the other way a
     date: "2025-03-18",
     author: "Michael Rodriguez",
     imageUrl:
-      "public/Leonardo_Anime_XL_Viral_anime_nature_wallpaper_in_4K_quality_i_0.jpg",
+      "/Leonardo_Anime_XL_imagine_prompt_Viral_anime_nature_wallpaper_2.jpg",
     tags: ["Psychology", "Interior Design", "Wellbeing"],
     content: `
 # The Psychology of Space: How Your Environment Shapes Your Mindset
