@@ -57,7 +57,7 @@ But if you’re reading this, you still have time. You still have a chance to st
     title: "The Pain You Choose",
     slug: "the-pain-you-choose",
     excerpt:
-      "No matter what you choose discipline or delay, growth or comfort—pain comes with it. But while pain is inevitable, the kind you carry is not. Choose the pain that leads somewhere.",
+      "No matter what you choose discipline or delay, growth or comfort, pain comes with it. But while pain is inevitable, the kind you carry is not. Choose the pain that leads somewhere.",
     category: "Reflection",
     date: "2025-04-25",
     author: "Kayden",
