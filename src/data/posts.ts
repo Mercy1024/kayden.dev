@@ -244,7 +244,7 @@ Remember that technology should serve your values and goals, not the other way a
     author: "Kayden",
     imageUrl: "/discipline.png",
     tags: ["Discipline", "Consisitency", "Daily Habits", "Self Mastery"],
-    content: `# I Came Across a Powerful Lesson on Consistency—Here’s What I Learned
+    content: `# I Came Across a Powerful Lesson on Consistency: Here’s What I Learned
 
 The other day, I stumbled upon a short video that completely reframed how I view discipline and consistency. It wasn’t flashy. No special effects, no dramatic soundtrack. Just a man speaking with raw honesty and clarity. And in just under 120 seconds, he laid out a blueprint that hit me hard and stuck.
 
