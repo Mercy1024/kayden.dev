@@ -34,8 +34,8 @@ const Index = () => {
                 Clean Scribe
               </h1>
               <p className="text-lg text-muted-foreground leading-relaxed">
-                A minimalist blog focused on personal insights, tech,
-                spirituality and thoughtful content.
+                A minimalist blog focused on personal insights, tech and
+                thoughtful content.
               </p>
             </div>
 
