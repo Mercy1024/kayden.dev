@@ -139,17 +139,17 @@ Just remember:
     ],
     content: `# Your Order Is Being Prepared: What Waiting at a Restaurant Taught Me About Faith
 
-The other day, I was sitting in a restaurant waiting for my meal. Then it suddenly hit me—I had faith that my food would arrive. But my faith didn’t start when I sat at the table. It started earlier, when I placed the order. I trusted that the kitchen received it, that the chef was preparing it, even though I couldn’t see what was happening behind the scenes.
+The other day, I was sitting in a restaurant waiting for my meal. Then it suddenly hit me, I had faith that my food would arrive. But my faith didn’t start when I sat at the table. It started earlier, when I placed the order. I trusted that the kitchen received it, that the chef was preparing it, even though I couldn’t see what was happening behind the scenes.
 
 That’s when I realized: **faith begins before the waiting**. It starts the moment you believe that what you asked for is being handled, even if you can't see the progress yet.
 
 And then it hit me even deeper. Some people never truly walk in faith because they never "place their order." They never take the first step because they fear disappointment. They live in hesitation, always wondering "what if," and miss the chance to experience the process unfolding.
 
-As I sat there, watching the waiters move from table to table, another lesson came to me. **Movement is a sign that the system is working**. The worst thing for your faith is feeling like nothing is happening. But if the waiters are moving, if meals are coming out—even if they’re not yours yet—you can trust that the kitchen is active. Life is like that. Opportunities are being served all around you. Stay patient—your order is coming.
+As I sat there, watching the waiters move from table to table, another lesson came to me. **Movement is a sign that the system is working**. The worst thing for your faith is feeling like nothing is happening. But if the waiters are moving, if meals are coming out, even if they’re not yours yet—you can trust that the kitchen is active. Life is like that. Opportunities are being served all around you. Stay patient,your order is coming.
 
 And another important realization: **someone else getting their meal doesn’t mean yours isn’t coming**. It just means their order was different. Maybe they ordered something quicker to prepare, or maybe they placed their order before you. Either way, seeing others served should fuel your confidence, not your insecurity.
 
-Sometimes, yes, your meal may take longer. Maybe it’s more complex. Maybe there was a mix-up that needs fixing. But restaurants have processes in place to make sure you eventually get what you asked for—or something even better.
+Sometimes, yes, your meal may take longer. Maybe it’s more complex. Maybe there was a mix-up that needs fixing. But restaurants have processes in place to make sure you eventually get what you asked for, or something even better.
 
 Here’s what I took away:
 
